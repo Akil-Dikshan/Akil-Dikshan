@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Gemellery**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Spring boot** and **Node.js**
 
 - 📫 How to reach me **akildikshan01@gmail.com**
 

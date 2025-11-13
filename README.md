@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **akildikshan01@gmail.com**
 
+- 📍 I'm currently live in **Colombo**
+
 - ⚡ Fun fact **I do photography**
 
 <h3 align="left">Connect with me:</h3>

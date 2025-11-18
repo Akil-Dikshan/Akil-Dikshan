@@ -13,7 +13,7 @@
 
 - 📍 I'm currently live in **Colombo**
 
-- 💬 Ask me about React, Flutter, Spring Boot, or anything tech!
+- 💬 Ask me about React, Spring Boot, or anything tech!
 
 - ⚡ Fun fact **I do photography**
 

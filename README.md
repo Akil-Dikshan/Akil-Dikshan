@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact **I do photography**
 
-- ⚡ Quote I live by: "No more half-measures."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

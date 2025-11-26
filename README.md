@@ -4,12 +4,12 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif](https://tenor.com/view/code-coding-computer-gif-19684211)">
 
 ### 🚀 About Me
 
 - 🔭 Building **Full-stack applications**
-- 🌱 Deep diving into **microservices architecture** & **cloud technologies**
+- 🌱 Deep diving into **Machine Learning** & **AI**
 - 💬 Ask me about **React, Python , Spring Boot, or anything tech!**
 - 📫 Reach me: **akildikshan01@gmail.com**
 - ⚡ Quote I live by: *"Don’t watch the clock; do what it does. Keep going."*
@@ -57,8 +57,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haritha0705&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haritha0705&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akil-Dikshan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akil-Dikshan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">

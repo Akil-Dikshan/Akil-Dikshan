@@ -4,7 +4,6 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="<div class="tenor-gif-embed" data-postid="19684211" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-computer-gif-19684211">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 
 ### 🚀 About Me
 

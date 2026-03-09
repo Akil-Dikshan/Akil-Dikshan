@@ -1,4 +1,4 @@
-#                                              FullStack Developer & mobile Dev
+#                                              FullStack Developer
 ## 💫 About Me:
 🔭 Build Full-stack applications<br>🌱 Deep diving into Blockchain , Machine Learning & AI<br>💬 Ask me about React, Python , Spring Boot, or anything tech related!<br>📫 Reach me: akildikshan01@gmail.com<br>⚡ Quote I live by: "Don’t watch the clock; do what it does. Keep going."
 

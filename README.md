@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akil-dikshan-a50297206) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akildikshan01@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akil-dikshan-a50297206) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akildikshan.dev@gmail.com) 
 
 #### **Frontend** 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

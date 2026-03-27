@@ -1,10 +1,10 @@
 #                                              FullStack Developer
 ## 💫 About Me:
-🔭 Build Full-stack applications<br>🌱 Deep diving into Blockchain , Machine Learning & AI<br>💬 Ask me about React, Python , Spring Boot, or anything tech related!<br>📫 Reach me: akildikshan01@gmail.com<br>⚡ Quote I live by: "Don’t watch the clock; do what it does. Keep going."
+🔭 Build Full-stack applications<br>🌱 Deep diving into Blockchain , Machine Learning & AI<br>💬 Ask me about React, Python , Spring Boot, or anything tech related!<br>📫 Reach me: akildikshan.dev@gmail.com<br>⚡ Quote I live by: "Don’t watch the clock; do what it does. Keep going."
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akil-dikshan-a50297206) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akildikshan.dev@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akil-dikshan-a50297206) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akildikshan01@gmail.com) 
 
 #### **Frontend** 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
